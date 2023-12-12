@@ -1,24 +1,266 @@
 title          ,price       ,image          ,description         
-"Lexus ES 5 поколение [рестайлинг] Седан , 2010",17200$ ,https://i.cars.kg/preview/r/_BR8gs2VUM5cweFMlt1JVA/1080x-/20231112/d9305d08ee8d8b05b61369264ee24c20.jpeg,"Седан, серебряный, 3.5 л., левый руль, бензин, автомат, передний,"
 "Lexus ES 6 поколение Седан , 2013",21500$ ,https://i.cars.kg/preview/r/r7dng87clS6EE1L8bdYexA/1080x-/20231112/87242722e47fea35283bc4835e422e0c.jpeg,"Седан, серебряный, 2.5 л., левый руль, гибрид, вариатор, передний,"
-"Honda Accord 7 поколение Седан , 2005",8400$ ,https://i.cars.kg/preview/r/zOoBbgFHAmTadJ1ciLGd4A/1080x-/20231211/cdd3b978a80f9ab1130f7d3119963af8.jpeg,"Седан,"
-"Toyota Mark II X100 Седан , 1996",5000$ ,https://i.cars.kg/preview/r/exjB-UULfmelfb9Rs4X2kg/1080x-/20231210/78d72f73bbbdcb4d61b90d3d9e382575.jpg,"Седан, белый жемчуг, 2 л., правый руль, бензин, автомат, задний,"
-"Mitsubishi Galant 8 поколение Седан , 2001",3918$ ,https://i.cars.kg/preview/r/YpTFElJ8-ffRzgXiw2v-8Q/1080x-/20231211/8f3fbbed446dac04f156ade7fb2eff68.jpg,"Седан, серебряный, 2.4 л., левый руль, бензин, автомат, постоянный полный,"
-"Kia Rio 3 поколение Седан 4-дв. , 2015",9400$ ,https://i.cars.kg/preview/r/ButMeypNhTcSqszkLk6gPQ/1080x-/20231121/3e4f99d20b569849cb9cf41f3f08bd70.jpeg,"Седан, мокрый асфальт, 1.4 л., левый руль, бензин, автомат, передний,"
+"Lexus ES 5 поколение [рестайлинг] Седан , 2010",17200$ ,https://i.cars.kg/preview/r/_BR8gs2VUM5cweFMlt1JVA/1080x-/20231112/d9305d08ee8d8b05b61369264ee24c20.jpeg,"Седан, серебряный, 3.5 л., левый руль, бензин, автомат, передний,"
+"Honda Inspire 4 поколение Седан , 2003",10500$ ,https://i.cars.kg/preview/r/a1xMiBepCHWlK1ZdnUpvDA/1080x-/20231212/679c1fd81e29ede37bf9de034edc09fc.jpg,"Седан, голубой, 3.0 л., правый руль, бензин, автомат, задний,"
+"Toyota Ist 1 поколение Хетчбэк , 2003",6500$ ,https://i.cars.kg/preview/r/pnyXZuVQ3mnY9d7wLZgc9w/1080x-/20231212/b23f6b311243e2ee82df07e15b7a6539.jpeg,"Хэтчбек, белый, 1.3 л., правый руль, бензин, автомат, передний,"
 "Lexus GX 2 поколение [рестайлинг] Внедорожник , 2014",45500$ ,https://i.cars.kg/preview/r/hV5u8xQ92ua5rY36Hu3Y1Q/1080x-/20231123/a5570b7b652ade61d185f18e9f6a678a.jpeg,"Внедорожник / Пикап, белый, 4.6 л., левый руль, бензин, автомат, постоянный полный,"
-"Hyundai Santa Fe DM Grand кроссовер 5-дв. , 2016",22000$ ,https://i.cars.kg/preview/r/SOIPCKeLgwF4xtuBx6qZXg/1080x-/20231124/4cadbe53b489af95b035e3206c2ab848.jpeg,"Кроссовер, темно-синий, 2.2 л., левый руль, дизель, автомат, полный подключаемый,"
-"Toyota RAV4 3 поколение [2-й рестайлинг] Кроссовер , 2013",19500$ ,https://i.cars.kg/preview/r/6CZvUbis8_I5TZSobiOHbQ/1080x-/20231204/2bd2f79bb53c20ae31b308358a72ada4.jpeg,"Кроссовер, белый, 2.4 л., левый руль, бензин, автомат, постоянный полный,"
-"Toyota RAV4 , 2021",22861$ ,https://i.cars.kg/preview/r/gyzTumjq-dVxhlILB-3rug/1080x-/20231210/2b80af395091a8734c2aa9c3a13cf6bd.png,"Внедорожник / Пикап, черный, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
-"Toyota Camry XV50 [рестайлинг] Седан , 2016",23000$ ,https://i.cars.kg/preview/r/JPiEd4ceSxHof7D2GNX41Q/1080x-/20231130/a731123620c83ced6c3c601f1f53b700.jpeg,"Седан, 2.5 л., бензин, автомат, передний,"
+"Toyota Windom MCV30 Седан , 2002",8000$ ,https://i.cars.kg/preview/r/I6--tKrJTn_9xNkSg0q3og/1080x-/20231212/795286c732b87b7760c50febeb027be9.jpeg,"Седан, черный, 3.0 л., правый руль, бензин, автомат, передний,"
+"Toyota Highlander 1 поколение Кроссовер , 2002",12000$ ,https://i.cars.kg/preview/r/TB9GKwXxY8MHhXpyeU_0fQ/1080x-/20231128/374f5761e298db490e40663072d7aaa4.jpeg,"Кроссовер, серебряный, 3.0 л., левый руль, бензин, автомат, постоянный полный,"
+"Toyota Camry XV50 [рестайлинг] Седан , 2016",17500$ ,https://i.cars.kg/preview/r/LG77n_GHIn1zMr3Sufdzwg/1080x-/20231211/2cf00f42079f4e77ce49048d71672954.jpeg,"Седан, черный, 2.5 л., левый руль, бензин, автомат, передний,"
+"Honda Stepwgn 3 поколение Минивэн , 2005",12200$ ,https://i.cars.kg/preview/r/nOOUyawliwQwGb55qGrGHg/1080x-/20231211/c5a22f5c1ddb4cb8121ad38bbfbbc7ea.jpg,"Минивэн / Бус, белый, 2.4 л., правый руль, бензин, автомат, передний,"
 "Mercedes-Benz E-Класс W211/S211 Седан , 2003",12500$ ,https://i.cars.kg/preview/r/197Pjocb3e7fjNJ3qvJ5Fw/1080x-/20231208/6694d836016d09ea2b5c99d6935b0873.jpeg,"Седан, серебряный, 3.2 л., левый руль, бензин, автомат, задний,"
+"Kia Morning 2 поколение Хетчбэк , 2017",9950$ ,https://i.cars.kg/preview/r/Xq2kKX2CrOmgwk3YVW_8oQ/1080x-/20231117/c461eea0b816143487aceb018689a8ef.jpeg,"Хэтчбек, мокрый асфальт, 1.0 л., левый руль, бензин, автомат, передний,"
+"Toyota RAV4 3 поколение [2-й рестайлинг] Кроссовер , 2013",19500$ ,https://i.cars.kg/preview/r/6CZvUbis8_I5TZSobiOHbQ/1080x-/20231204/2bd2f79bb53c20ae31b308358a72ada4.jpeg,"Кроссовер, белый, 2.4 л., левый руль, бензин, автомат, постоянный полный,"
+"Toyota Prius 3 поколение [рестайлинг] Хетчбэк , 2011",14000$ ,https://i.cars.kg/preview/r/1jtgERVQmxo4fenunALECw/1080x-/20231211/a903ad258bd0d63e9467aa6369e695b0.jpeg,"Хэтчбек, голубой, 1.8 л., левый руль, гибрид, автомат, передний,"
+"Honda Fit 2 поколение RS хетчбэк 5-дв. , 2010",6000$ ,https://i.cars.kg/preview/r/EFhgQD0MPZ994rwxAugdCQ/1080x-/20231211/97791f1ffd7ca8ae99a99bab7154c034.jpeg,"Хэтчбек, серый, 1.5 л., правый руль, бензин, автомат, передний,"
+"Toyota Camry XV50 [рестайлинг] , 2017",16000$ ,https://i.cars.kg/preview/r/wfBosKgVw7OfoBJn2ebjwg/1080x-/20231115/7515ec65142e0cd0a8e037192a9c6a93.jpg,"Седан, черный, 2.5 л., левый руль, бензин, автомат, передний,"
+"Hyundai Starex , 2018",27200$ ,https://i.cars.kg/preview/r/KSETTUdRDqGqVDntfcpEzA/1080x-/20230916/bbd418178d42526b68bfbce444e9c544.jpg,"Минивэн / Бус, серый, левый руль, дизель, автомат, полный подключаемый,"
+"Kia Morning , 2017",8800$ ,https://i.cars.kg/preview/r/3u5MT8DLpd933TMoF3GZ_g/1080x-/20231004/b066fd5897b22070288030a905b8f0fe.jpg,"Хэтчбек, красный, 1.0 л., левый руль, газ, автомат,"
+"Toyota Camry , 2018",19000$ ,https://i.cars.kg/preview/r/CZ-1i0fD65olwr4ExM2Kig/1080x-/20231115/451d0bdebd6c24c9e820b1c08bef02c1.jpeg,"Седан, серебряный, 2.5 л., левый руль, бензин, автомат, задний,"
+"Hyundai Sonata , 2018",18$ ,https://i.cars.kg/preview/r/nmXRDpG6Rc25DUta5WJPlw/1080x-/20231115/a624045a3068387bc93551c8f7617587.jpg,"Седан, серый, 2.0 л., левый руль, газ, автомат, задний,"
+"Mazda 626 GF Хетчбэк , 1997",5038$ ,https://i.cars.kg/preview/r/i_a1fU-KM4AhrWW1gphmBg/1080x-/20231204/4124ab2d411232a8811ecfec24932f43.jpg,"Хэтчбек, темно-синий, 2 л., левый руль, бензин, механика, передний,"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+"Toyota RAV4 , 2021",22861$ ,https://i.cars.kg/preview/r/gyzTumjq-dVxhlILB-3rug/1080x-/20231210/2b80af395091a8734c2aa9c3a13cf6bd.png,"Внедорожник / Пикап, черный, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
 "Toyota Camry , 2023",20880$ ,https://i.cars.kg/preview/r/WUGa936kq1P438gl8yRw-w/1080x-/20231210/aa425e5b8be46aab0208ff2955432f7c.png,"Седан, черный, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
-"Honda Stepwgn 3 поколение [рестайлинг] Минивэн , 2009",9500$ ,https://i.cars.kg/preview/r/e7JQs6LhxZjYFmI-vHLZcA/1080x-/20231209/e052d239a5cde298ad44abff007bb84f.jpeg,"Минивэн / Бус, белый, 2.0 л., правый руль, бензин, автомат, передний,"
-"Ravon Gentra 1 поколение Седан , 2016",6000$ ,https://i.cars.kg/preview/r/ZjF8AYT3opQCKBjcU6bL4g/1080x-/20231210/d9d8cdc48631502372a43787e7c20f11.jpg,"Седан, белый, 1.6 л., левый руль, газ-бензин, механика, передний,"
 "Mercedes-Benz B-Класс W245 [рестайлинг] Хетчбэк , 2009",10500$ ,https://i.cars.kg/preview/r/Q00A2qfwhk4jLeTfnyw7yw/1080x-/20231127/a051166ffefdf3b5a3928082ad8dedc2.jpg,"Хэтчбек, белый, 1.7 л., левый руль, бензин, вариатор, передний,"
-"Toyota Camry XV50 [рестайлинг] Седан , 2018",23500$ ,https://i.cars.kg/preview/r/_TkHnxnD3bP-AtbVF4vLaQ/1080x-/20231211/fa11b0b4843b813a901ab5c3e78c12e8.jpg,"Седан, белый, 2.5 л., левый руль, бензин, автомат, передний,"
+"Kia K5 1 поколение Седан , 2015",11800$ ,https://i.cars.kg/preview/r/qyj5vS83dXxtB5AejB4JKA/1080x-/20231212/acb3c27d386ad94d45bb9fa7b9486b6f.jpg,"Седан, белый, 2 л., левый руль, газ, автомат, передний,"
+"Toyota Estima 3 поколение Минивэн 5-дв. , 2007",11000$ ,https://i.cars.kg/preview/r/ONV1cXozPQipD9kQDzP3WQ/1080x-/20231212/496f352c4a16dbe6011a496beeb844d2.jpg,"Минивэн / Бус, белый, 2.4 л., правый руль, бензин, автомат, передний,"
+"Daewoo Nexia 1 поколение [рестайлинг] Седан , 2008",2239$ ,https://i.cars.kg/preview/r/_5wVcsJBwHeNwOz4MnPnUA/1080x-/20231212/9f0e9067f10aa8fce557b6033c1510b4.jpg,"Седан, темно-синий, 1.6 л., левый руль, бензин, механика, передний,"
+"Kia K7 1 поколение [рестайлинг] Седан , 2018",16500$ ,https://i.cars.kg/preview/r/MEbeLiX9lbM69Nx7g72S9g/1080x-/20231211/eb939a24b8474a4d8d9db4022fc5b2b7.jpg,"Седан, белый, 3 л., левый руль, газ, автомат, передний,"
+"Kia Sorento 3 поколение Prime кроссовер , 2019",18000$ ,https://i.cars.kg/preview/r/p1q5yTrkm66PRwyejCpvFA/1080x-/20231211/fff83e0d9b1eb3190f24128380c3ea2e.jpg,"Кроссовер, белый жемчуг, 2.0 л., левый руль, дизель, типтроник, задний,"
+"ВАЗ (Lada) 2115 1 поколение Седан , 2003",1$ ,https://i.cars.kg/preview/r/5WNDVmS-UBtfKwLjCKEcMA/1080x-/20231211/1c22914f8eda0674cc94ecf4c83b3328.jpg,"Седан, белый жемчуг, 1.5 л., левый руль, бензин, механика, передний,"
+"Toyota Camry XV50 [рестайлинг] Седан , 2018",18900$ ,https://i.cars.kg/preview/r/-xBN8UZ7QsHiFktoSoRHjQ/1080x-/20231211/60ce028090903d1c68f6feb587003e5c.jpg,"Седан, черный, 2.5 л., левый руль, бензин, автомат, передний,"
+"Hyundai Palisade , 2021",31671$ ,https://i.cars.kg/preview/r/EOkpC09IyDmZuG7lukOtQg/1080x-/20231211/9d08995c445140e2272117e46c042c58.png,"Внедорожник / Пикап, черный, 3.8 л., левый руль, бензин, автомат, постоянный полный,"
+"Hyundai , 2020",31740$ ,https://i.cars.kg/preview/r/0ZzjCIaerVk2i2t6uCWy4A/1080x-/20231211/e4b29214928b1f808a4367360ac828ce.png,"Внедорожник / Пикап, серебряный, 3.8 л., левый руль, бензин, автомат, постоянный полный,"
+"Toyota Highlander , 2019",35500$ ,https://i.cars.kg/preview/r/ZaFUFLZcB2vyGEsLWn06rg/1080x-/20231211/62352e20d269398db57b5740276b728b.jpg,"Внедорожник / Пикап, белый, 3.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Toyota Camry XV40 Седан 4-дв. , 2008",9800$ ,https://i.cars.kg/preview/r/b-MIyeacMH_8cXRFFw3F7g/1080x-/20231211/480996fe3235d6737bd0e45722887fd1.jpg,"Седан, 2.4 л., бензин, автомат, передний,"
+"Hyundai Santa Fe , 2023",31251$ ,https://i.cars.kg/preview/r/9fHPlKVrM5YN6o0UbExCwQ/1080x-/20231211/d4a4facb89937c91b9560279975db478.png,"Внедорожник / Пикап, черный, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Lixiang Li9, 2023",67000$ ,https://i.cars.kg/preview/r/ZI2zl7hlCp3NgNXXMjG0Cg/1080x-/20231211/2b3598ecb96ca4904651a8942e0adda4.jpg,"Внедорожник / Пикап, черный, 1.5 л., левый руль, гибрид, автомат, постоянный полный,"
+"Hyundai Santa Fe , 2022",25813$ ,https://i.cars.kg/preview/r/3ZYwV-gkodVwT32Szgqwjw/1080x-/20231211/e0ed4aabec655eeb71170d9d6122669b.png,"Внедорожник / Пикап, белый, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Hyundai Santa Fe , 2021",30563$ ,https://i.cars.kg/preview/r/RW2cQ4Pn45MHL4OlyBJw5w/1080x-/20231211/10cbb3698703fd44208dbdf15c1cbfad.png,"Внедорожник / Пикап, серебряный, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Hyundai , 2020",18346$ ,https://i.cars.kg/preview/r/X73YxWxe85ztXwvLmQuI2Q/1080x-/20231211/ee0da35b2c95f3468ff71f1168b4992c.png,"Внедорожник / Пикап, серебряный, 2.4 л., левый руль, бензин, автомат, постоянный полный,"
+"Hyundai , 2023",24596$ ,https://i.cars.kg/preview/r/j6Q1jnCIKFNHblhTM_oaSg/1080x-/20231211/6eaa8bcc2480a98c1893c91645a12565.png,"Внедорожник / Пикап, бордовый, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+"Kia Morning , 2017",9970$ ,https://i.cars.kg/preview/r/0IHtalE-_9pj3VGGM5WuaA/1080x-/20231211/95309086d5cb0389368f23c262ec268d.jpeg,"Хэтчбек, мокрый асфальт, 1.0 л., левый руль, бензин, автомат, передний,"
+"Hyundai , 2022",23640$ ,https://i.cars.kg/preview/r/muYl_VZOohxQchHsMYTthQ/1080x-/20231211/51c062f7175a5098f4252e66ee0e6473.png,"Внедорожник / Пикап, бордовый, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Haval , 2023",29800$ ,https://i.cars.kg/preview/r/wEMm3CxEuceiPZslL3gSgQ/1080x-/20231211/cb8f55f195b1b004ceeb0d1614f9d835.jpg,"Внедорожник / Пикап, черный, 2 л., левый руль, бензин, автомат, постоянный полный,"
+"Toyota Camry , 2017",16500$ ,https://i.cars.kg/preview/r/fhvnR0x3sN6LEsdNGxVCag/1080x-/20231211/afc82678464436010b1bf1bfa342a640.jpg,"Седан, черный, 2.5 л., левый руль, бензин, автомат, передний,"
+"BMW X5 , 2018",42000$ ,https://i.cars.kg/preview/r/RM5seo4EefSezYF00BMRBw/1080x-/20231211/84bb5c9adfec0db074a5832bc0af9218.jpg,"мокрый асфальт, 3 л., левый руль, автомат, постоянный полный,"
+"Hyundai Tucson , 2020",15989$ ,https://i.cars.kg/preview/r/oxVX2Q_C-vkjqdHLnpWf_Q/1080x-/20231211/0da5347d4fc762d97b1dd8077d9f93db.png,"Внедорожник / Пикап, черный, 2.4 л., левый руль, бензин, автомат, постоянный полный,"
+"МАРКА: VAYAH ⭕ МОДЕЛЬ: FREE, 2023",44000$ ,https://i.cars.kg/preview/r/sRMSB8NL6segot4dAFsTdQ/1080x-/20231211/2b41088e2f160e59fa61251664cd6426.jpg,"Кроссовер, зеленый, 1.5 л., левый руль, гибрид, постоянный полный,"
+"Hyundai Sonata , 2023",21110$ ,https://i.cars.kg/preview/r/ZQXSq4Ba_20I5wQUqiUIwQ/1080x-/20231211/e083a21d729f3543b218ed0719ea1d86.png,"Седан, бордовый, 2.5 л., левый руль, бензин, автомат, передний,"
+"Hyundai Sonata , 2021",15913$ ,https://i.cars.kg/preview/r/H_9oknRh8y_ssaOd-Ozbqw/1080x-/20231211/a5501d71545840819541392977fe3af3.webp,"Седан, черный, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Hyundai Sonata , 2020",16333$ ,https://i.cars.kg/preview/r/XRSX1D9bnJ5gnC1dEz0y6g/1080x-/20231211/d4da4c8ea5bb2a2890ba6d9fb25b2561.png,"Седан, серебряный, 2.5 л., левый руль, бензин, автомат, передний,"
+"Jetour traveller pro+, 2023",36900$ ,https://i.cars.kg/preview/r/je1LVG5zxJYqE5ua2pscaQ/1080x-/20231211/9a27e7ddc49bc1d6bd83830253895853.jpg,"Внедорожник / Пикап, серый, 2.0 л., левый руль, бензин, постоянный полный,"
+"ВАЗ (Lada) 2107 1 поколение Седан , 2010",1903$ ,https://i.cars.kg/preview/r/RKnDag0-juSsWaN7VUUN3g/1080x-/20231211/5ef72234e83012d8314dd9ee17f9c7a4.jpg,"Седан, зеленый, 2 л., левый руль, бензин, механика, задний,"
+"Honda Elysion 1 поколение [рестайлинг] Минивэн , 2008",12700$ ,https://i.cars.kg/preview/r/CuVPtU3jdsshiDqjcXponw/1080x-/20231211/cabfcef042cf1dcd7f50c7cec0465b34.jpg,"Минивэн / Бус, белый, 2.4 л., левый руль, бензин, автомат, передний,"
+"Lexus RX 3 поколение Кроссовер 5-дв. , 2009",20500$ ,https://i.cars.kg/preview/r/0N0XU1dHZXpIqMePgIfSPg/1080x-/20231211/1db6d93a80b58414375efe66419da6a4.jpg,"Кроссовер, белый, 3.5 л., левый руль, бензин, автомат, полный подключаемый,"
+"Geely MONJARO, 2023",30600$ ,https://i.cars.kg/preview/r/HKh6zgqcI6g_FHH_bz0yhQ/1080x-/20231211/8fea0a0a82204ac81a249d1e7c295396.jpg,"зеленый, 2.0 л., левый руль, бензин, автомат, постоянный полный,"
+"Subaru Forester , 2017",13000$ ,https://i.cars.kg/preview/r/HbAnL-5FOtdtEAS8OO5CPg/1080x-/20231211/07c267cee5fd7365f3af9cf23f74ebce.jpg,"Седан, серебряный, 2.5 л., левый руль, бензин, вариатор, постоянный полный,"
+"Honda , 2003",12000$ ,https://i.cars.kg/preview/r/Oh0gvyPIcPjpmmTqKHNnzQ/1080x-/20231211/6d04e66f65779dfdf0ae9a6f95bf2c22.jpg,"Минивэн / Бус, белый, 2.4 л., правый руль, бензин, автомат, передний,"
+"Volkswagen Passat B8 Седан , 2018",18500$ ,https://i.cars.kg/preview/r/DO69kOsfw8LGHrblo13FqQ/1080x-/20231211/90f622b197d221a574dacc14b630302d.jpg,"Седан, белый, 2 л., левый руль, дизель, автомат, передний,"
+"Hyundai Elantra , 2023",17208$ ,https://i.cars.kg/preview/r/P0XW-_kiYi5BrJg_6RRBVg/1080x-/20231211/8fea387fd2f1d40df26d4876b8db1532.png,"Седан, черный, 2.0 л., левый руль, бензин, вариатор, постоянный полный,"
+"Lexus GX , 2004",25000$ ,https://i.cars.kg/preview/r/PTanjGoOjugbzUpm4Ndw8A/1080x-/20231211/09dfe00c868e2273e6ee351d6fd590ad.jpg,"Внедорожник / Пикап, белый, 4,7 л., правый руль, бензин, автомат, полный подключаемый,"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+"Hyundai Elantra , 2022",16100$ ,https://i.cars.kg/preview/r/FAIJZ85BlCJez76RDyAUZA/1080x-/20231211/51652d9cab291f3a75dac823f4cc9714.png,"Седан, бордовый, 2.0 л., левый руль, бензин, автомат, постоянный полный,"
+"Hyundai Elantra , 2021",15742$ ,https://i.cars.kg/preview/r/Bk7ns4EeQjZs6ueXKUPUug/1080x-/20231211/67b31d73023259ec25306684f0e83313.png,"Седан, черный, 2.0 л., левый руль, бензин, вариатор, постоянный полный,"
+"Hyundai Elantra , 2020",13463$ ,https://i.cars.kg/preview/r/yJwv9Qj3ZLBdWjx7xc6xlQ/1080x-/20231211/e776bec83f3daaf252c95e77c60d079e.png,"Седан, серебряный, 2.0 л., левый руль, бензин, вариатор, постоянный полный,"
+"Lexus GX 2 поколение Внедорожник , 2010",34000$ ,https://i.cars.kg/preview/r/KHsecMGTunc_f6TwXMLU6A/1080x-/20231211/61ea1e641d3ba0ca02b75f250340fed6.jpg,"Внедорожник / Пикап, белый, 4.6 л., левый руль, бензин, автомат, постоянный полный,"
+"Toyota Camry XV50 [рестайлинг] Седан Camry Vlll(XV70)  , 2018",23500$ ,https://i.cars.kg/preview/r/_TkHnxnD3bP-AtbVF4vLaQ/1080x-/20231211/fa11b0b4843b813a901ab5c3e78c12e8.jpg,"Седан, белый, 2.5 л., левый руль, бензин, автомат, передний,"
 "Nissan Pathfinder R50 [рестайлинг] Внедорожник , 2000",6600$ ,https://i.cars.kg/preview/r/91iGhgK8CimlMUvd-W2gyA/1080x-/20231211/0f8ae6cce80f94bb6c2428c2f01ccaf8.jpg,"Внедорожник / Пикап, белый жемчуг, 3.3 л., левый руль, газ-бензин, автомат, постоянный полный,"
 "Lexus RX 2 поколение [рестайлинг] Кроссовер , 2006",15$ ,https://i.cars.kg/preview/r/wOZcQGJDIup5FfmacBQweA/1080x-/20231211/b1e57c894c714336da80dbe2cc6a04f5.jpg,"Кроссовер, белый жемчуг, 3.3 л., левый руль, гибрид, вариатор, передний,"
+"Honda Accord 7 поколение Седан , 2005",8400$ ,https://i.cars.kg/preview/r/zOoBbgFHAmTadJ1ciLGd4A/1080x-/20231211/cdd3b978a80f9ab1130f7d3119963af8.jpeg,"Седан,"
+"Mitsubishi Galant 8 поколение Седан , 2001",3918$ ,https://i.cars.kg/preview/r/YpTFElJ8-ffRzgXiw2v-8Q/1080x-/20231211/8f3fbbed446dac04f156ade7fb2eff68.jpg,"Седан, серебряный, 2.4 л., левый руль, бензин, автомат, постоянный полный,"
 "Ravon R4, 2017",7500$ ,https://i.cars.kg/preview/r/dmnPAHNY8qcUkXvxFm0lRw/1080x-/20231210/f71d2bdb25588d2f46702e706ba5b408.jpg,"Седан, белый, 1.5 л., левый руль, бензин, механика, передний,"
+"Mazda 626 3 поколение [рестайлинг] Хетчбэк , 1994",2463$ ,https://i.cars.kg/preview/r/MjfxFcJZ-4OnRuj5NK-KDg/1080x-/20231210/2600b090c2272a5231911e0b3d888a35.jpg,"Хэтчбек, бордовый, 1.8 л., левый руль, бензин, механика, передний,"
+"Daewoo Matiz M250 [рестайлинг] Хетчбэк , 2009",2575$ ,https://i.cars.kg/preview/r/plQsx-KUn5b9n5_npeURuA/1080x-/20231210/d37703e308e20126a6445244432f97f3.jpeg,"Хэтчбек, бирюзовый, 0.8 л., левый руль, бензин, механика, передний,"
+"Kia K7 , 2020",23000$ ,https://i.cars.kg/preview/r/-ATUY0Obu1WWME9yXJHwCw/1080x-/20231210/6b759586c651a91ac2705bb5f4bea3cf.jpg,"Седан, черный, 3 л., левый руль, бензин, автомат, передний,"
+"Honda Odyssey 2 поколение Минивэн , 2000",7000$ ,https://i.cars.kg/preview/r/YSpEeBMDVXDh0OLDQ3-l0A/1080x-/20231210/0f2a8b19ff13d855a879d32e1c500069.jpg,"Минивэн / Бус, черный, 2.3 л., правый руль, бензин, автомат, передний,"
+"Subaru Crosstrek, 2021",20090$ ,https://i.cars.kg/preview/r/ycCYE4iiLN5ACFmswxFe4A/1080x-/20231210/256d5ba788a51321a9bce97ecc812c60.png,"Внедорожник / Пикап, бордовый, 2.5 л., левый руль, бензин, вариатор, постоянный полный,"
+"Lexus RX 2 поколение Кроссовер , 2004",14500$ ,https://i.cars.kg/preview/r/k27aU2uSYEL1vXHGvrd1_g/1080x-/20231210/08c192c00170cebad4ffe86509e87d69.jpg,"Кроссовер, черный, 3.3 л., левый руль, бензин, автомат, передний,"
+"Subaru WRX , 2021",20453$ ,https://i.cars.kg/preview/r/DURy620Dke2RwwSSXsnPLg/1080x-/20231210/d759c0dbf64913eac3f2fe9b782cbe06.png,"Седан, серый, 2.0 л., левый руль, бензин, механика, постоянный полный,"
+"Subaru Outback , 2022",24499$ ,https://i.cars.kg/preview/r/0D0w7Jjdjn933hnks5Wo4A/1080x-/20231210/a1c0080901356a36244b5f753c000e83.png,"Внедорожник / Пикап, серый, 2.4 л., левый руль, бензин, вариатор, постоянный полный,"
+"Subaru Legacy , 2022",24799$ ,https://i.cars.kg/preview/r/-Py6iXUWKbI5yvCy_9D0Rw/1080x-/20231210/2a502a4284b30066268aab9e252c91ba.png,"Седан, серебряный, 2.5 л., левый руль, бензин, вариатор, постоянный полный,"
+"Subaru Forester , 2022",20621$ ,https://i.cars.kg/preview/r/JGvYiHadgah2dwVfnmSvTA/1080x-/20231210/0634a22e658f1c2eb0a90e9f37a8d883.png,"Внедорожник / Пикап, черный, 2.5 л., левый руль, бензин, вариатор, постоянный полный,"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+"Lexus RX , 2021",48956$ ,https://i.cars.kg/preview/r/Ukco291yUfelnc0lbqM8_Q/1080x-/20231210/7c9740943c5aed8da47d438892769c95.png,"Внедорожник / Пикап, белый, 3.5 л., левый руль, гибрид, вариатор, постоянный полный,"
+"Lexus RX , 2021",42021$ ,https://i.cars.kg/preview/r/v6WH5PCOk1n2jXz7yl4dsg/1080x-/20231210/cff666c0cb9ac401f519848e9f5dff09.png,"Внедорожник / Пикап, серебряный, 3.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Lexus NX , 2020",26140$ ,https://i.cars.kg/preview/r/GKjIZo_Xnsdn5ZFprQt2nw/1080x-/20231210/b7014eaa380ef0a9b4386ff11ff9cf96.png,"Внедорожник / Пикап, белый, 2.0 л., левый руль, бензин, автомат, постоянный полный,"
+"Lexus IS , 2019",21934$ ,https://i.cars.kg/preview/r/LapmosUHLt9dNta38SfQow/1080x-/20231210/dd78e7dae43f7cdbc314eac90d9bbf53.png,"Седан, серебряный, 3.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Nissan Cedric Y34 Седан , 2002",4500$ ,https://i.cars.kg/preview/r/PVOPP2MEFKKAvgGrN69bZA/1080x-/20231210/25f59702bdc5d5dcda37ca6346f8cbcb.jpg,"Седан, 2.5 л., правый руль, бензин, автомат, задний,"
+"Lexus ES , 2022",34638$ ,https://i.cars.kg/preview/r/_EYoczB_RF-EDZqEy4GnkA/1080x-/20231210/bb2f36d15f19b85d2af776aef96fbb90.png,"Седан, серебряный, 2.5 л., левый руль, гибрид, вариатор, передний,"
+"Hyundai Tucson , 2019",17843$ ,https://i.cars.kg/preview/r/_iB19bG0CdHbxsrvNe_2oQ/1080x-/20231210/82e2d4f41673588881398534bbee9831.png,"Внедорожник / Пикап, бирюзовый, 2.4 л., левый руль, бензин, автомат, постоянный полный,"
+"Hyundai Santa Fe , 2020",18249$ ,https://i.cars.kg/preview/r/AsR145orjgfLfQyFEH3jAg/1080x-/20231210/070162cb8a52ad626505d265f489d38d.png,"Внедорожник / Пикап, бордовый, 2.4 л., левый руль, бензин, автомат, постоянный полный,"
+"Toyota Highlander , 2021",32745$ ,https://i.cars.kg/preview/r/LslUXpLh03_evhpbZc1ICw/1080x-/20231210/d243873d09aff85963bdff42634e409b.png,"Внедорожник / Пикап, мокрый асфальт, 3.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Toyota RAV4 , 2020",20283$ ,https://i.cars.kg/preview/r/49aS_OtsN1nHkfYU2swZrQ/1080x-/20231210/16494ca839b2afc980343e84a548f384.png,"Внедорожник / Пикап, черный, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Toyota Yaris XP9 [рестайлинг] Хетчбэк 5-дв. , 2009",8700$ ,https://i.cars.kg/preview/r/Lg2x9qszhytUEjQMStuGfg/1080x-/20231210/1b80adb19eab721857daa3d20cd301c9.jpeg,"Хэтчбек, зеленый, 1.3 л., левый руль, бензин, автомат, передний,"
+"Toyota Camry , 2020",20880$ ,https://i.cars.kg/preview/r/d7ACilXoBMOd0UL6qcyWgA/1080x-/20231210/553b7447d1bf95991039997778dca506.png,"Седан, черный, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Toyota Camry , 2019",25159$ ,https://i.cars.kg/preview/r/pmSgOqAycRo9L9isyJLGvA/1080x-/20231210/83bb25ceb3632a7090d4de7f09a13858.png,"Седан, белый, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Toyota Camry , 2020",17300$ ,https://i.cars.kg/preview/r/yGYjWtZuoyVF_Em6w5GxGA/1080x-/20231210/21d16620b946b96dc796da715df24be0.png,"Седан, темно-синий, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Toyota Camry , 2020",25299$ ,https://i.cars.kg/preview/r/EjkziNcfZ4E0ah5xen6EPw/1080x-/20231210/4a43afc485f26935f28607147e6e9c90.png,"Седан, белый, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Toyota 4Runner , 2023",34449$ ,https://i.cars.kg/preview/r/18LoyTgo6V9cA245Qd7dww/1080x-/20231210/834419e25de106c79ad65c1a54107f2c.png,"Внедорожник / Пикап, черный, 4.0 л., левый руль, бензин, автомат, постоянный полный,"
+"Kia Sorento , 2022",25725$ ,https://i.cars.kg/preview/r/lPHYad0mgpN7tz5zzB3Hag/1080x-/20231210/98a04d8833abe800a55d00b1d196cda6.png,"Внедорожник / Пикап, серебряный, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Kia K7 , 2017",17000$ ,https://i.cars.kg/preview/r/Dnm5aY8lmeOy0vWmaoqG3w/1080x-/20231210/cc419b89af098c8c17e8a4912dc478f0.jpg,"Седан, черный, 2.4 л., левый руль, бензин, автомат, передний,"
+"Kia K5 , 2021",18204$ ,https://i.cars.kg/preview/r/T2wUayCMKIh1GLSHDnJRaA/1080x-/20231210/cc45e13e2f0bcc83de68bf9a5a9ed048.png,"Седан, белый жемчуг, 2.0 л., левый руль, бензин, автомат, передний,"
+"Kia Carnival , 2022",32130$ ,https://i.cars.kg/preview/r/26tv-wIQZWoUgRmH4EHAag/1080x-/20231210/0e455239af063de731b15798b232d76d.png,"Минивэн / Бус, серый, 3.5 л., левый руль, бензин, автомат, передний,"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+"Hyundai Sonata , 2021",20618$ ,https://i.cars.kg/preview/r/NEQPdswia4AaZfoQI2SqNw/1080x-/20231210/653041eb9c22010eb5831dbc525e4280.png,"Седан, серый, 2.5 л., левый руль, бензин, автомат, передний,"
+"Toyota Mark II X100 Седан , 1996",5000$ ,https://i.cars.kg/preview/r/exjB-UULfmelfb9Rs4X2kg/1080x-/20231210/78d72f73bbbdcb4d61b90d3d9e382575.jpg,"Седан, белый жемчуг, 2 л., правый руль, бензин, автомат, задний,"
+"Honda Stream 1 поколение Минивэн , 2003",5933$ ,https://i.cars.kg/preview/r/UggUdojpIoYELNSuW1uyWQ/1080x-/20231210/9cd11ceaf2a37b733148acb11ff5a873.jpg,"Минивэн / Бус, бордовый, 1.7 л., левый руль, бензин, механика, передний,"
+"BMW X7, 2020",59833$ ,https://i.cars.kg/preview/r/CmiaDc31Avkd04zxzOcekA/1080x-/20231210/45167bbbb2bd02b1143150783f388cf9.png,"Внедорожник / Пикап, черный, 3.5 л., левый руль, бензин, автомат, постоянный полный,"
+"BMW X6 , 2020",44723$ ,https://i.cars.kg/preview/r/qnsHsx8H1YxHRGHcrZqalw/1080x-/20231210/2262d2f4cd3d2e2c34ea9e909b90a235.png,"Внедорожник / Пикап, дипломат, 4.4 л., левый руль, бензин, автомат, постоянный полный,"
+"BMW X5 , 2020",51646$ ,https://i.cars.kg/preview/r/Ze3H5djPEGMZjebtjjtQkg/1080x-/20231210/dac54deccf036cec7d2f4e2b33eef628.png,"Внедорожник / Пикап, черный, 3.0 л., левый руль, бензин, автомат, постоянный полный,"
+"BMW 7 серия , 2020",43368$ ,https://i.cars.kg/preview/r/g75nEzJwp-Acv7QNoN9V9w/1080x-/20231210/bf57a2f4200d8223ae8a9e267e7e804e.png,"Седан, черный, 4.4 л., левый руль, бензин, автомат, постоянный полный,"
+"BMW 4 серия , 2019",15445$ ,https://i.cars.kg/preview/r/DbEHIzyTXn_B4DXom2rF0w/1080x-/20231210/f0b3629176f3d3470080f546670c99a0.png,"Седан, черный, 2.0 л., левый руль, бензин, автомат, постоянный полный,"
+"BMW 3 серия , 2018",17119$ ,https://i.cars.kg/preview/r/z20iqlzVXjrKkZM2jdisgw/1080x-/20231210/25a980df83338a914514bfaf066b5225.png,"Седан, черный, 2.0 л., левый руль, бензин, автомат, задний,"
+"Volkswagen Passat B3 Седан , 1988",2630$ ,https://i.cars.kg/preview/r/SNngxZX4nw4SmEtUE300_Q/1080x-/20231210/25da890254ddee4003592de130202ff6.jpg,"Седан, серый, 1.8 л., левый руль, бензин, механика, передний,"
+"BMW 5 серия , 2019",20500$ ,https://i.cars.kg/preview/r/Q3OfKy9fn3_3U6yepzjdVA/1080x-/20231210/915ec9081dd571028b158d717f51a239.png,"Седан, темно-синий, 2 л., левый руль, автомат, задний,"
+"Lexus NX 1 поколение Кроссовер 5-дв. , 2020",38000$ ,https://i.cars.kg/preview/r/3ncfjWszLy1xX3cIxZZDBw/1080x-/20231210/dc6aa6f816a9216c888950408cff7685.jpg,"Кроссовер, серый, 2. л., левый руль, бензин, автомат, постоянный полный,"
+"Hyundai Sonata , 2017",12500$ ,https://i.cars.kg/preview/r/k3DhUpob-Wl1EJISiAUchA/1080x-/20231210/ac93d15f174c441db45b293ea9ce72fb.jpg,"Седан, серебряный, 2.0 л., левый руль, газ, автомат, передний,"
+"Chevrolet Spark , 2018",8500$ ,https://i.cars.kg/preview/r/s8QczJMv3JeCSqjN2R464Q/1080x-/20231210/193a168e170338e8872dd75bc9be898d.jpg,"Хэтчбек, серый, 1.0 л., левый руль, бензин, автомат, передний,"
+"Ravon Gentra 1 поколение Седан , 2016",6000$ ,https://i.cars.kg/preview/r/ZjF8AYT3opQCKBjcU6bL4g/1080x-/20231210/d9d8cdc48631502372a43787e7c20f11.jpg,"Седан, белый, 1.6 л., левый руль, газ-бензин, механика, передний,"
+"EXEED RX, 2023",33300$ ,https://i.cars.kg/preview/r/RAhYMMAdnfJ6F1Cnyqtd5A/1080x-/20231210/c65428c104ece84be6c783d2b3cd721c.jpg,"Кроссовер, мокрый асфальт, 2.0 л., левый руль, бензин, постоянный полный,"
+"Daihatsu Move L900 Минивэн , 2002",2798$ ,https://i.cars.kg/preview/r/qNUibxWqyS-EoT1LP6f12A/1080x-/20231210/f1a97710e90993adbe6dcd712ef4e5af.jpeg,"Минивэн / Бус, белый жемчуг, 1 л., левый руль, бензин, механика, передний,"
+"Hyundai Sonata YF Седан 4-дв. , 2016",16000$ ,https://i.cars.kg/preview/r/TfcozKXyWQZDeV6bt5xi0g/1080x-/20231210/3a3c54c5feb1553adb5d144ff269457f.jpeg,"Седан, белый жемчуг, 2.0 л., левый руль, бензин, автомат, передний,"
+"Lexus ES 6 поколение [рестайлинг] Седан , 2019",38700$ ,https://i.cars.kg/preview/r/dQEX8Tb7sZPUsY7nSLUM7Q/1080x-/20231210/6c2f3db41c0a32a8663d44ec8bce0335.jpg,"Седан, серый, 2.5 л., левый руль, гибрид, автомат, передний,"
+"Honda Legend 3 поколение [рестайлинг] Седан , 2004",6200$ ,https://i.cars.kg/preview/r/I7vIdSm2uwfIJOcUR41dGw/1080x-/20231210/2cc140cc198231afe3946fa40d0a2853.jpg,"Седан, серебряный, 3.5 л., правый руль, бензин, автомат, постоянный полный,"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+"Chevrolet Spark , 2017",7650$ ,https://i.cars.kg/preview/r/q5Y0hA41FYD9HNn1Gd4W5g/1080x-/20231210/98466ec845ff3e866ca493320a1e12bc.jpg,"Хэтчбек, черный, 1 л., левый руль, бензин, автомат, передний,"
+"Geely Monjaro, 2023",26650$ ,https://i.cars.kg/preview/r/4A0ib_gMr4hiQV6T2VChpA/1080x-/20231210/5d9613031090d603d7bb5657e98e8821.png,"Кроссовер, смарагд,"
+"Toyota Land Cruiser , 2014",42900$ ,https://i.cars.kg/preview/r/e2-JZOGWO3i16SJ6gSyP4Q/1080x-/20231209/ce164c044b01ad7f979903f0dde64599.jpg,"Внедорожник / Пикап, черный, дизель,"
+"Toyota , 2018",21500$ ,https://i.cars.kg/preview/r/M3vD8Gr_ugOcGR8Nz8Q2Sw/1080x-/20231209/719c5eec3977b80309f55e075adecb6e.jpg,"Седан, белый, 2.5 л., левый руль, бензин, автомат, передний,"
+"Subaru Legacy , 2003",7000$ ,https://i.cars.kg/preview/r/Y3vFMaX_VNNNbG-e59Nhag/1080x-/20231209/28476a1a11511d22e2bfd4f06c0900a1.jpg,"Седан, серый, 2 л., правый руль, бензин, автомат, постоянный полный,"
+"Toyota Land Cruiser Prado , 2014",34500$ ,https://i.cars.kg/preview/r/43Uz-oc5G20Wku0YfmdDeQ/1080x-/20231209/a8a437ff60401c7bd19657bf2527aad8.jpg,"Внедорожник / Пикап, белый, 2.7 л., левый руль, бензин, автомат, постоянный полный,"
+"Chevrolet Spark M300 Хетчбэк , 2019",9500$ ,https://i.cars.kg/preview/r/2JJihKyYuv935UUJC6FnVw/1080x-/20231209/b33648b6d93f3a57825cc5aad82ae08f.jpg,"Хэтчбек, белый, 1 л., левый руль, бензин, вариатор, передний,"
+"Toyota Camry XV50 [рестайлинг] Седан , 2021",28000$ ,https://i.cars.kg/preview/r/Qc7uX3RxyHsj-6aAjJ5uBQ/1080x-/20231209/ca72e5d064a9c92174208649bfb2f1b4.jpg,"Седан, синий, 2.5 л., бензин, автомат, полный подключаемый,"
+"Lexus GX 1 поколение Внедорожник , 2005",22600$ ,https://i.cars.kg/preview/r/T6_3oCnIWxdUY47d_nALiw/1080x-/20231209/6d2f6c25dd86a0039e877a5e0acaf6b2.jpg,"Внедорожник / Пикап, серебряный, 4.7 л., левый руль, газ-бензин, автомат, постоянный полный,"
+"Kia Morning 2 поколение Хетчбэк , 2019",8500$ ,https://i.cars.kg/preview/r/amQZirvEEAKGeQs-0tnY8g/1080x-/20231209/f8652d55b1f31bdd50c29ed9cf6d6911.jpg,"Хэтчбек, белый, 1 л., левый руль, бензин, автомат, передний,"
+"МАРКА:Lixiang  ⭕ МОДЕЛЬ:L9 max , 2023",66800$ ,https://i.cars.kg/preview/r/uR2zL1Ur_qFLM-e6N3k00w/1080x-/20231209/63d3b929da6955d26d07be453cf42dda.jpg,"Кроссовер, черный, 1.5 л., левый руль, гибрид, автомат, постоянный полный,"
+"Honda Civic 8 поколение Седан 4-дв. , 2007",27$ ,https://i.cars.kg/preview/r/5Nb7KhlqP8t7xnCLl2bTLw/1080x-/20231209/c358bfdfdbd9da8edaa2a75770b5a4c0.jpg,"Седан, белый, 1.5 л., левый руль, бензин, автомат, задний,"
+"Lexus RX 4 поколение Кроссовер , 2018",40000$ ,https://i.cars.kg/preview/r/3WimACuQ_TWecyEWvixHGA/1080x-/20231209/11d94bc2d8a85122a34ceacdd955235a.jpg,"Кроссовер, белый жемчуг, 3.5 л., левый руль, бензин, автомат, полный подключаемый,"
+"Honda Stepwgn 3 поколение [рестайлинг] Минивэн , 2009",9500$ ,https://i.cars.kg/preview/r/e7JQs6LhxZjYFmI-vHLZcA/1080x-/20231209/e052d239a5cde298ad44abff007bb84f.jpeg,"Минивэн / Бус, белый, 2.0 л., правый руль, бензин, автомат, передний,"
+"Honda Stepwgn 4 поколение Минивэн , 2010",10500$ ,https://i.cars.kg/preview/r/rOBNBUrA-s9yurR43GrALg/1080x-/20231209/1c087fc75c276140627bee55c0b725e5.jpeg,"Минивэн / Бус, серебряный, 2.0 л., правый руль, бензин, вариатор, передний,"
+"Toyota Avensis 2 поколение [рестайлинг] Седан , 2007",650000$ ,https://i.cars.kg/preview/r/iDAXr0f1OlH-nXyJXi3U0Q/1080x-/20231209/e32527f226e53468efded38ef8af0af9.jpg,"Седан, серебряный, 1.8 л., левый руль, бензин, механика, передний,"
+"Honda Fit 1 поколение Хетчбэк , 2003",5821$ ,https://i.cars.kg/preview/r/6cG9heXSHIq7-IXd0n8xyQ/1080x-/20231208/a04286f1c73c2453d9c27764d158bb31.jpg,"Хэтчбек, бирюзовый, 1.3 л., правый руль, бензин, вариатор, передний,"
+"Ford Explorer 4 поколение Внедорожник , 2006",14000$ ,https://i.cars.kg/preview/r/RuBZPGxYSordpFdE-2NDTQ/1080x-/20231208/1e247806ca8b9b374806542693dae876.jpg,"Внедорожник / Пикап, серый, 4.6 л., левый руль, бензин, автомат, постоянный полный,"
+"Mercedes-Benz Sprinter , 1995",10800$ ,https://i.cars.kg/preview/r/CziT6wuj73CKQ95fJnD8Pg/1080x-/20231208/2998515b08c1354d42389c3bf036d3e3.jpg,"Минивэн / Бус, красный, 2.9 л., левый руль, дизель, механика, передний,"
+"Toyota RAV4 4 поколение [рестайлинг] Кроссовер , 2018",21800$ ,https://i.cars.kg/preview/r/t93Jvb7voqPxjKLNWeaECg/1080x-/20231208/6a03950b5b9038a7f8ff71fb8a9d0295.jpg,"Кроссовер, красный, 2.5 л., левый руль, бензин, автомат, передний,"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+"Toyota Camry , 2018",22800$ ,https://i.cars.kg/preview/r/wDYmwIx-kDtCrO3wCO5jDg/1080x-/20231208/02271d2722cd4d21a8d170996f2de777.jpg,"Седан, коричневый, 2.5 л., левый руль, бензин, автомат, передний,"
+"Lexus RX , 2016",41800$ ,https://i.cars.kg/preview/r/rnH2wzePG16CiUh2C-PvWg/1080x-/20231208/bd35b8a6f461b5dc0636df36b1b00a37.jpg,"Кроссовер, белый жемчуг,"
+"Geely Monjaro, 2023",27900$ ,https://i.cars.kg/preview/r/FEMGJwCLCcqC8YttcostSQ/1080x-/20231208/b298ad759837e5f6efe9fdea1a17874e.jpg,"Кроссовер, черный,"
+"Honda Accord 7 поколение Седан , 2004",8800$ ,https://i.cars.kg/preview/r/yLo8dJac5eUejAKlQ5nVUQ/1080x-/20231208/2f3080ee7bc47f378b96fbc461abe9a8.jpg,"Седан, 2 л., правый руль, бензин, автомат, передний,"
+"Ford Transit 5 поколение , 2005",6$ ,https://i.cars.kg/preview/r/PXEMNzDxb6NKO3n-B_w4mw/1080x-/20231208/645ad17b166a3c336479f4abb5976d39.jpg,"Минивэн / Бус, белый, 2.4 л., левый руль, дизель, механика, передний,"
+"Mercedes-Benz E-Класс W211/S211 Седан , 2004",19$ ,https://i.cars.kg/preview/r/V_sHpum9FNOuIl6LYXsfIg/1080x-/20231208/c510cab2cd7b95db57d5bfb27efcd872.jpeg,"Седан, белый, 3.2 л., левый руль, бензин, автомат, задний,"
+"Lexus RX , 2021",62000$ ,https://i.cars.kg/preview/r/t7djd-eI4NpnN0HK9neWkA/1080x-/20231208/e5337757e27ebf4066ce374da488a6f2.jpg,"Внедорожник / Пикап, черный, 3.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Subaru , 2016",17000$ ,https://i.cars.kg/preview/r/-sFkEmBmjOM-Jn-eC41trQ/1080x-/20231208/abf2c1316789ddc47461e281a6615c9d.jpg,"Внедорожник / Пикап, серый, 2.5 л., левый руль, бензин, автомат, постоянный полный,"
+"Honda Elysion , 2008",12700$ ,https://i.cars.kg/preview/r/Un3lgSfDcUzxMmCaYUlatw/1080x-/20231208/dee9bd479da4b79cbc2e9bea41d5f989.jpg,"Минивэн / Бус, белый, 2.4 л., левый руль, бензин, автомат, передний,"
+"Toyota Yaris , 2007",5709$ ,https://i.cars.kg/preview/r/Q5_Lhb6GMrsHIFPvT35Crw/1080x-/20231208/07681a51085f44922e988e33c0a3f11a.jpg,"Хэтчбек, 1.3 л., левый руль, механика, задний,"
+"Honda Fit 1 поколение Хетчбэк , 2006",5933$ ,https://i.cars.kg/preview/r/QN1CEQiXSQtP35vARhyyvw/1080x-/20231208/1b959979bbce9f6dc80c9f404d4c9bbd.jpg,"Хэтчбек, серебряный, 1.3 л., правый руль, бензин, вариатор, передний,"
+"ВАЗ (Lada) 2109 1 поколение 21099 седан , 1995",1007$ ,https://i.cars.kg/preview/r/23mzbvWcidFA-MDq_cH4GQ/1080x-/20231208/3d6bfe25e57aa017b9762d52de543513.jpg,"Седан, 1.5 л., левый руль, бензин, механика, задний,"
+"Geely MK 1 поколение [рестайлинг] Cross хетчбэк , 2015",17700$ ,https://i.cars.kg/preview/r/-D3Ty--H_jQ__47YlXABvQ/1080x-/20231208/f2f018b9a691d399700118cc6fe1ff58.jpeg,"Хэтчбек, белый, 1.5 л., левый руль, бензин, механика, передний,"
+"Honda Odyssey 2 поколение US-spec минивэн 5-дв. , 2000",9700$ ,https://i.cars.kg/preview/r/Mdbff_txdcL6_XY6T5DuWg/1080x-/20231208/2e83799a9fe154a3bbff67f64ac5f1f4.jpeg,"Минивэн / Бус, серебряный, 3.0 л., правый руль, бензин, автомат, передний,"
+"Toyota Crown S170 Седан , 2004",7000$ ,https://i.cars.kg/preview/r/AyTA1Bykm2A6VYcasELRyQ/1080x-/20231208/89e43c489563cab59052cab6abc5cac5.jpeg,"Седан, черный, 3.0 л., правый руль, бензин, автомат, задний,"
+"Lexus GX 1 поколение Внедорожник , 2004",25000$ ,https://i.cars.kg/preview/r/aGRUzqizM17J4NDlDw1jHg/1080x-/20231207/d89648196c034e605f44bb29bab7da4a.jpeg,"Внедорожник / Пикап, серебряный, 4.7 л., левый руль, бензин, автомат,"
+"Toyota Corolla E120 Седан 4-дв. , 2007",7836$ ,https://i.cars.kg/preview/r/_4W5IpS6nst-tiHuDMxyJg/1080x-/20231207/4cf446e913d853f2b4797418e8495fe9.jpg,"Седан, серебряный, 1.6 л., левый руль, бензин, автомат, передний,"
+"Kia Optima , 2017",12800$ ,https://i.cars.kg/preview/r/cnRPRu4tqvYkdKkgFI2D2w/1080x-/20231207/903b04b51971e2528ba86a874b364933.jpg,"Седан, черный, 2.4 л., левый руль, бензин, автомат, передний,"
+"Mitsubishi Lancer IX [2-й рестайлинг] Седан , 2005",4478$ ,https://i.cars.kg/preview/r/6EDk790mjzW7H8azrbP9hQ/1080x-/20231207/3388455a2af3b38cfc16157be1c2f663.jpg,"Седан, черный, 1.6 л., левый руль, бензин, автомат, передний,"
+"Mercedes-Benz S-Класс W220 [рестайлинг] Седан , 2004",15300$ ,https://i.cars.kg/preview/r/yPdjaYZEpWlqDuA6o_YFgw/1080x-/20231207/eb70b7de456134352da752ca0b43bcf0.jpeg,"Седан, серебряный, 5.0 л., левый руль, бензин, автомат, задний,"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+"Hyundai Genesis 2 поколение Седан , 2021",53000$ ,https://i.cars.kg/preview/r/QFksgdHLC-E3LHsQs8toMA/1080x-/20231207/67d21ec3f1075e720808d9a194b3905c.jpg,"Седан, белый, 2.5 л., левый руль, бензин, автомат, задний,"
+"Honda Jazz 1 поколение [рестайлинг] Хетчбэк , 2005",7800$ ,https://i.cars.kg/preview/r/zPheeUrAEQ_BsgoCsX95Vw/1080x-/20231207/44673f57a9852812063a895bbec4772f.png,"Хэтчбек, красный, 1.3 л., левый руль, бензин, вариатор, передний,"
+"Kia Carnival 2 поколение Минивэн , 2010",24500$ ,https://i.cars.kg/preview/r/7hi11LkJjAgfQQVbkjHo9w/1080x-/20231207/86224ec387e038c53a0090fccca7f6b4.jpeg,"Минивэн / Бус, черный, 2.2 л., левый руль, дизель, автомат, передний,"
+"Toyota Camry XV50 Седан 4-дв. , 2012",17500$ ,https://i.cars.kg/preview/r/5c-tQbh9DPQbr67OjWkq1A/1080x-/20231207/0db8a155da157917001a341946756175.jpg,"Седан, черный, 2.5 л., левый руль, бензин, автомат, передний,"
+"Toyota Sequoia 1 поколение [рестайлинг] Внедорожник , 2008",26000$ ,https://i.cars.kg/preview/r/OYQfE9ZKkBTaewHiNtMezA/1080x-/20231207/7caebd9aa9c224d687585327633d42d3.jpg,"Внедорожник / Пикап, белый, 4.7 л., левый руль, газ-бензин, автомат, полный подключаемый,"
+"Chevrolet Spark M300 Хетчбэк , 2019",8519$ ,https://i.cars.kg/preview/r/NcbdKd1_2cdn4vpDFsCD5w/1080x-/20231207/d224df301a1bbbe2d3d8bde9a6767653.png,"Хэтчбек, серый, 1 л., левый руль, бензин, вариатор, передний,"
+"Nissan , 1997",6941$ ,https://i.cars.kg/preview/r/WADHIbXC783URujW-Q-cIQ/1080x-/20231207/be36feff42ea0fc447043353c3c61f4e.jpg,"Внедорожник / Пикап, темно-синий, 2.7 л., дизель, автомат, полный подключаемый,"
+"Hyundai Santa Fe DM [рестайлинг] Premium кроссовер , 2019",28500$ ,https://i.cars.kg/preview/r/pxydA9tuVRWxAduNRub0dw/1080x-/20231207/f5c7ff3fb24af7b5bab6ee6a4dacad8b.jpg,"Кроссовер, серебряный, 2.4 л., левый руль, бензин, автомат, постоянный полный,"
+"Lexus ES 4 поколение Седан , 2005",13500$ ,https://i.cars.kg/preview/r/VTV2yCkqWh9TusNPuNpSPA/1080x-/20231207/411a4f8896629c715c351adc0edf1d57.jpg,"Седан, белый жемчуг, 3.3 л., левый руль, бензин, автомат, передний,"
+"Kia K5 , 2020",14800$ ,,"Седан, белый, 2 л., левый руль, газ, типтроник,"
+"Toyota Land Cruiser J200 [рестайлинг] 200 внедорожник , 2012",43000$ ,https://i.cars.kg/preview/r/IKB8t_3RYfIL7SFsLWHHfg/1080x-/20231207/1ceaef8669abfd494293b74a11b0d625.jpeg,"Внедорожник / Пикап, черный, 4.5 л., левый руль, дизель, автомат, постоянный полный,"
+"Toyota  МОДЕЛЬ:C-HR  , 2021",22500$ ,https://i.cars.kg/preview/r/xtafOlmvbj7ROzmhsjLO1w/1080x-/20231207/1ff7607e190762ac7bd58125b45e41d5.jpg,"Внедорожник / Пикап, белый, 1 л., левый руль, электро, автомат, передний,"
+"Changan UNI-K, 2023",27300$ ,https://i.cars.kg/preview/r/ha2GmYAj5d6GIwD-n5zr-g/1080x-/20231207/8b9bd1ad675e59034292fa024e134601.jpg,"Внедорожник / Пикап, черный, левый руль, бензин, полный подключаемый,"
+"Hyundai Elantra , 2023",17300$ ,https://i.cars.kg/preview/r/xEDrY2aC7ghJ4pbrtFA_JQ/1080x-/20231207/e747ddd60db339166b999d5ebd3026b0.jpg,"Седан, синий, 1.5 л., правый руль, бензин, вариатор, передний,"
+"Hyundai Elantra MD [рестайлинг] , 2023",17300$ ,https://i.cars.kg/preview/r/njnhdqKKKhfwHqcO5_Heog/1080x-/20231207/07d98f6d9ce7a0a9b92d9d549db30b0b.jpg,"Седан, белый, 1.5 л., левый руль, бензин, вариатор, передний,"
+"Hyundai Porter 3 поколение Борт , 2001",8396$ ,https://i.cars.kg/preview/r/dR2URKFxuDhV0RgV2_3XEg/1080x-/20231207/864d3dff20df6367e1566b433dbcdbbc.jpg,"Седан, белый, 2.5 л., левый руль, дизель, механика, задний,"
+"Lexus RX 4 поколение Кроссовер , 2016",50500$ ,https://i.cars.kg/preview/r/yhTH45RZ7-7vNbVPikW2-g/1080x-/20231207/c53612d850cb86d71c922bcbdabab0e4.jpeg,"Кроссовер, черный, 3.5 л., левый руль, бензин, автомат, полный подключаемый,"
+"Kia Sportage 4 поколение Кроссовер , 2018",17800$ ,https://i.cars.kg/preview/r/0OH-3Jz-rCetCnprELd-DQ/1080x-/20231207/a088043038e66d29c3139534c7ec64f1.jpg,"Кроссовер, белый, 2 л., левый руль, дизель, автомат, передний,"
+"BMW , 2018",38500$ ,https://i.cars.kg/preview/r/R6fYsyrdfsjCtJPV9DJcrw/1080x-/20231207/dfad4ba56a0e52d0238bc137afb58be2.jpg,"Седан, белый, 3.0 л., левый руль, бензин, автомат, постоянный полный,"
+"Volkswagen Golf 4 поколение Хетчбэк 5-дв. , 2003",4900$ ,https://i.cars.kg/preview/r/TWMT-wT51Oz2elYJQZYXbw/1080x-/20231207/015698edcd4af16cf43e6887cf6a3bcb.jpeg,"Хэтчбек, серебряный, 1.6 л., левый руль, бензин, механика, передний,"
+,,,
+,,,
+,,,
+,,,
+,,,
 ,,,
 ,,,
 ,,,

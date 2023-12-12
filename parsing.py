@@ -11,10 +11,21 @@ def write_to_csv(data: dict):
 
 
 def get_html(url):
-    response = requests.get(url)
+    response = requests.get(url) 
     # print(response.status_code) 
     # print(response.text)
     return response.text
+
+
+def get_page(html):
+    soup = BeautifulSoup(html, 'lxml')
+    page_list = soup.find('div', class_='pages fl')
+    l = page_list.find_all('a')
+    # print(soup)
+    # print(page_list)
+    last_page = l[-2].text
+    # print(last_page)
+    return last_page
 
 
 def get_data(html):
@@ -63,9 +74,17 @@ def get_data(html):
 def main():
     url = 'https://cars.kg/offers'
     html = get_html(url)
-    get_data(html)
-
-
+    number= int(get_page(html))
+    i = 1
+    while i <= number:
+        # print(i)
+        url = f'https://cars.kg/offers/{i}'
+        html = get_html(url)
+        get_data(html)
+        if i == number:
+            number = int(get_page(html))
+        i += 1
+        
 
 with open('data.csv', 'w') as file:
     write = csv.writer(file)
